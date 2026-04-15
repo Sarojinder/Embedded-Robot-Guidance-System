@@ -1,0 +1,8 @@
+*.exe
+*.o
+*.elf
+*.hex
+*.lst
+build/
+bin/
+out/
